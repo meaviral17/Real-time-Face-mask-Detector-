@@ -1,4 +1,4 @@
-# Real-time-Face-mask-Detector-
+# Real-time Face-mask Detector
 
 * A real-time working model which scans the person's face to identify whether they are wearing a mask or not.
 
